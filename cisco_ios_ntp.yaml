@@ -1,7 +1,0 @@
-# Gathered play:
-# --------------
----
-
-- name: Gather listed ntp config
-  cisco.ios.ios_ntp_global:
-    state: gathered
